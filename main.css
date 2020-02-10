@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.comment {
+    padding: 20px;
+}
+
+.we h1 {
+    color: rgb(152, 108, 192);
+}
+p {
+    color: rgb(152, 108, 192);
+}
+
+.img {
+    padding: 40px;
+}
+h1 {
+
+    text-align: center;
+}
+p {
+    text-align: center;
+    padding: 10px;
+}
+.mail {
+    text-align: center;
+   
+}
+.color {
+    background-color: rgb(204, 89, 127);
+    border-radius: 20%;
+}
+.size {
+    border-radius: 1.5em;
+    padding: 2vh;
+}
+
+
+footer{
+    position: relative;
+    }
+
+
+
+
+
+ 
